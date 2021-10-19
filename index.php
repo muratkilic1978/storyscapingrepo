@@ -18,12 +18,12 @@ function newsletter_form()
     $content .= '<h3 id="velkommen">Welcome TO </h3>';
     $content .= '<img id="logo" src=" '.plugins_url("partyvibesplugin/img/logo.png").' " ';
     $content .= 'alt="Cheers Logo">';
-  	$content .= '<h5 id="tilmeld">Sign up for our weekly partyvibes</h5>';
+  	$content .= '<h5 id="tilmeld">Sign-up for our weekly partyvibes</h5>';
   	$content .= '</section>';
     $content .= '<section class="form">';
     $content .= '<form action="#" id="myForm">';
     $content .= '<div class="input">';
-    $content .= '<input type="email" name="email" id="email" placeholder="Enter your name here..." required><i class="fas fa-envelope"></i>';
+    $content .= '<input type="email" name="email" id="email" placeholder="Enter your e-mail address here..." required><i class="fas fa-envelope"></i>';
     $content .= '</div>';
   	$content .= '<div>';
  	$content .= '<input type="submit" value="LET THE GAME BEGIN!" name="submitBtn" id="submitBtn2">';
