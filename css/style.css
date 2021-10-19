@@ -14,11 +14,11 @@ body {
     margin-top: 40% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
-    border: 5px solid #4bb9b4 !important;
+    border: 10px dashed #4bb9b4 !important;
 }
 
 #logo {
-    width: 70% !important;
+    width: 90% !important;
     margin-left: 16% !important;
 }
 
