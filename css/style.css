@@ -23,7 +23,7 @@ body {
 }
 
 #velkommen {
-    color: #1f1f1f;
+    color: #adaada;
     margin-left: 25% !important;
     font-family: 'Montserrat', sans-serif;
 }
@@ -58,7 +58,7 @@ input[type="email"] {
 }
 
 ::-webkit-input-placeholder {
-  color: lightgrey;
+  color: grey;
 }
 
 :-ms-input-placeholder {
