@@ -39,16 +39,16 @@ body {
 .form {
     width: 100% !important;
     position: relative;
-    margin: 25px auto !important;
+    margin: 15px auto !important;
 }
 
 #min{
-    margin-left: 25% !important;
+    margin-left: 20% !important;
 }
 
 input[type="email"] {
     width: 100% !important;
-    height: 40px !important;
+    height: 50px !important;
     position: relative !important;
     font-size: 16px !important;
     font-family: 'Montserrat', sans-serif;
