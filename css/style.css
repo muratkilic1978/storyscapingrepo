@@ -23,13 +23,14 @@ body {
 }
 
 #velkommen {
-    color: red;
+    color: blue;
     margin-left: 25% !important;
     font-family: 'Montserrat', sans-serif;
 }
 
 #tilmeld {
-    color: #1f1f1f;
+
+    color: #D6D6B9;
     margin-left: 3% !important;
     font-size: 14px;
     margin-top: 5% !important;
@@ -58,11 +59,11 @@ input[type="email"] {
 }
 
 ::-webkit-input-placeholder {
-  color: pink;
+  color: blue;
 }
 
 :-ms-input-placeholder {
-  color: lightgrey;
+  color: green;
 }
 
 ::placeholder {
