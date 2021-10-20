@@ -5,12 +5,12 @@ body {
 }
 
 .login-form {
-    width: 350px !important;
+    width: 355px !important;
     height: auto !important; 
     position: absolute !important;
     padding: 30px 30px 10px 30px !important;
     background: #000;
-    left: 35% !important;
+    left: 40% !important;
     margin-top: 40% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
