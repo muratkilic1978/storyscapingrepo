@@ -1,16 +1,16 @@
 body {
-    margin: 5px;
-    padding: 5px;
-    background: #82DEEA;
+    margin: 50px;
+    padding: 50px;
+    background: #7777;
 }
 
 .login-form {
-    width: 350px !important;
+    width: 200px !important;
     height: auto !important; 
     position: absolute !important;
-    padding: 30px 30px 10px 30px !important;
+    padding: 40px 40px 15px 40px !important;
     background: #000;
-    left: 35% !important;
+    left: 40% !important;
     margin-top: 40% !important;
     -webkit-transform: translateX(-50%) translateY(-50%) !important;
     transform: translateX(-50%) translateY(-50%) !important;
@@ -23,7 +23,7 @@ body {
 }
 
 #velkommen {
-    color: #adaada;
+    color: pink;
     margin-left: 25% !important;
     font-family: 'Montserrat', sans-serif;
 }
@@ -58,7 +58,7 @@ input[type="email"] {
 }
 
 ::-webkit-input-placeholder {
-  color: grey;
+  color: pink;
 }
 
 :-ms-input-placeholder {
